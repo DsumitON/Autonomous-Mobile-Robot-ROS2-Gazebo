@@ -20,7 +20,21 @@ This project demonstrates an **autonomous mobile robot** built and simulated usi
 - Navigation Stack 2 (Nav2)
 
 ## 📽️ Demo
-Watch the project demo here: [Demo Video on Google Drive](<paste_link_here>)  
-*(Or upload on YouTube and link it)*
+in readme page
 
 ## 📁 Repository Structure
+├── launch/
+├── src/
+├── urdf/
+├── worlds/
+└── README.md
+
+
+## 💡 Future Improvements
+- Add SLAM integration
+- Implement autonomous docking
+- Optimize path planning using AI/ML
+
+## 👨‍💻 Author
+**Sumit Kumar Sahoo**  
+[LinkedIn](https://linkedin.com/in/sumitsahoo1989) | [GitHub](https://github.com/DsumitON)
