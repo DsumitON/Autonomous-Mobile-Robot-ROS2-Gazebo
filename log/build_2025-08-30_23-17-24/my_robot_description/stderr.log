@@ -1,0 +1,6 @@
+[31mCMake Error at cmake_install.cmake:46 (file):
+  file INSTALL cannot find
+  "/home/sksuser/my_robot_ws/src/my_robot_description/meshes": No such file
+  or directory.
+
+[0m
